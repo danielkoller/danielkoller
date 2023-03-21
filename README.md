@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/danielkoller_" target="blank"><img src="https://img.shields.io/twitter/follow/danielkoller_?logo=twitter&style=for-the-badge" alt="danielkoller_" /></a> </p>
 
-- 🔭 I’m currently working on [Windschatten - a Next.js-App for finding other people for bike commuting](https://github.com/danielkoller/windschatten)
+- 🔭 I’m currently working on -> [Windschatten - a Next.js-App for finding other people for bike commuting](https://github.com/danielkoller/windschatten)
 
-- 🌱 I’m currently learning **D3.js**
+- 🌱 I’m currently learning -> **D3.js**
 
-- 📫 How to reach me **Just drop me a DM or Twitter or contact me via Linkedin DM.**
+- 📫 How to reach me -> **Just drop me a DM or Twitter or contact me via Linkedin DM.**
 
-- 📄 Know about my experiences [I worked in Tech/Games journalism and Marketing before deciding to fully get into tech.](I worked in Tech/Games journalism and Marketing before deciding to fully get into tech.)
+- 📄 Know about my experiences -> I worked in Tech/Games journalism and Marketing before deciding to fully get into tech.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
