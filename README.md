@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning -> **D3.js**
 
-- 📫 How to reach me -> **Just drop me a DM or Twitter or contact me via Linkedin DM.**
+- 📫 How to reach me -> Just drop me a DM or Twitter or contact me via Linkedin DM.
 
-- 📄 Know about my experiences -> I worked in Tech/Games journalism and Marketing before deciding to fully get into tech.
+- 📄 Know about my experiences -> I worked in Tech/Games journalism and marketing before deciding to fully get into tech.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
