@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on -> [Windschatten - a Next.js-App for finding other people for bike commuting](https://github.com/danielkoller/windschatten)
 
-- 🌱 I’m currently learning -> **D3.js**
+- 🌱 I’m currently learning -> **Next.js**
 
-- 📫 How to reach me -> Just drop me a DM or Twitter or contact me via Linkedin DM.
+- 📫 How to reach me -> Just drop me a DM on Twitter or contact me via Linkedin DM.
 
 - 📄 Know about my experiences -> I worked in Tech/Games journalism and marketing before deciding to fully get into tech.
 
