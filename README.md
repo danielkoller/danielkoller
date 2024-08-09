@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Frontend developer with Marketing/Journalism-Background from Vienna, Austria.</h3>
+<h3 align="center">Web developer with Marketing/Journalism-Background from Vienna, Austria.</h3>
 
 <p align="left"> <a href="https://twitter.com/danielkoller_" target="blank"><img src="https://img.shields.io/twitter/follow/danielkoller_?logo=twitter&style=for-the-badge" alt="danielkoller_" /></a> </p>
 
-- 🔭 I’m currently working on -> [Windschatten - a Next.js-App for finding other people for bike commuting](https://github.com/danielkoller/windschatten)
-
-- 🌱 I’m currently learning -> **Next.js**
-
 - 📫 How to reach me -> Just drop me a DM on Twitter or contact me via Linkedin DM.
 
-- 📄 Know about my experiences -> I worked in Tech/Games journalism and marketing before deciding to fully get into tech.
+- 📄 Know about my experiences -> I switched from marketing and journalism to web development. After working at a startup, I'm now at dataspot, a company specializing in data governance and metadata management
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
