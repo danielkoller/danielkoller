@@ -1,0 +1,22 @@
+{
+  "name": "danielkoller-articles",
+  "version": "1.0.0",
+  "description": "Collection of interesting tech articles and resources",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "articles",
+    "tech",
+    "news"
+  ],
+  "author": "Daniel Koller",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "typescript": "^5.7.2"
+  }
+}
